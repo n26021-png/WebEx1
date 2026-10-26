@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 30px;
+  padding: 40px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.box {
+  flex: 1;
+  background-color: #a0efff;
+  padding: 30px 20px;
+  box-sizing: border-box;
+}
+
+.box p {
+  margin: 0;
+  line-height: 1.6;
+}
